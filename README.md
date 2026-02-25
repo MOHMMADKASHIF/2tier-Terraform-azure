@@ -7,7 +7,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-%3E%3D1.0-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![IaC](https://img.shields.io/badge/Infrastructure-as%20Code-success?style=for-the-badge&logo=hashicorp&logoColor=white)](https://developer.hashicorp.com/terraform)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
 
 *Clean separation of networking, security, compute, and load balancing — ideal for learning, demos, and real-world deployments.*
 
